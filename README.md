@@ -1,1 +1,6 @@
-Sample Logging demo using apache log4j
+Apache log4j is a  Java-based logging framework.
+
+log4j has three main components:
+•	loggers
+•	Appenders
+•	layouts
