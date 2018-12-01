@@ -4,7 +4,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 /**
- * Sample test class for log4j demo
+ * Sample test class for log4j demo test
  */
 public class TestClass 
 {
