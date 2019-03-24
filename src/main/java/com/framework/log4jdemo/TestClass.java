@@ -14,7 +14,6 @@ public class TestClass
 	{
 		
 	//PropertiesConfigurator is used to configure logger from properties file
-
         PropertyConfigurator.configure("src/main/java/resources/log4j.properties");
         
 		LOG.info("Info message.");
