@@ -15,7 +15,7 @@ public class TestClass
 		//PropertiesConfigurator is used to configure logger from properties file
 	        PropertyConfigurator.configure("src/main/java/resources/log4j.properties");
 		LOG.info("Info message."); // info message
-		LOG.warn("Warn messgae.");
-		LOG.error("Error message.");
+		LOG.warn("Warn messgae."); // warn message
+		LOG.error("Error message."); // error message
 	}
 }
